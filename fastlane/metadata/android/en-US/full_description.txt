@@ -1,0 +1,13 @@
+Vault Voice turns speech into text without ever sending your voice anywhere.
+
+Every transcription happens entirely on your device using Android's built-in offline speech engine — no internet connection, no cloud processing, no servers involved. Vault Voice doesn't even request the Internet permission, because it doesn't need one.
+
+Whether you're capturing a meeting note at work, a lecture recap for school, or a quick personal reminder, Vault Voice keeps it private by design:
+
+* Tap to record, tap to stop — you're in control of when a recording ends
+* Add more to any saved note to keep building on a topic over time
+* Edit any transcript by hand to fix mistakes, no need to re-record
+* Copy, share, or delete notes in one tap
+* No accounts, no logins, no ads, no analytics, no tracking of any kind
+
+Your notes are stored only in the app's private storage on your phone. Nothing is uploaded, nothing is synced, nothing is collected. If you delete the app, your notes go with it — that's the whole point.
